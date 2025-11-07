@@ -1,0 +1,1 @@
+{"root":["./src/server.ts","./src/config/db.ts","./src/controllers/usercontroller.ts","./src/middleware/authmiddleware.ts","./src/middleware/verifytoken.ts","./src/models/user.ts","./src/routes/authroutes.ts","./src/routes/profileroutes.ts","./src/routes/userroutes.ts","./src/types/express.d.ts"],"version":"5.9.3"}
